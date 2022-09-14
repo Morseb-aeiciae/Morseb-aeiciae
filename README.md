@@ -28,6 +28,7 @@
  | [Libft](https://github.com/Morseb-aeiciae/libft)                     | Recoding a few functions of the C standard library.
  | [ft_serveur](https://github.com/Morseb-aeiciae/ft_serveur)           | Introduction to docker.
  | [Libasm](https://github.com/Morseb-aeiciae/libasm)                   | Introduction to assembly language.
+ | [Minishell](https://github.com/Morseb-aeiciae/minishell)             | Create a simple shell.
  | [Push Swap](https://github.com/Morseb-aeiciae/push_swap)             | Optimization stack sorting.
  | [Philosophers](https://github.com/Morseb-aeiciae/philo)              | Introduction to mutex and semaphore with threads and processes.
  | [Minirt](https://github.com/Morseb-aeiciae/minirt)                   | Introduction to raytracing.
