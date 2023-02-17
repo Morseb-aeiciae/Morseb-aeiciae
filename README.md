@@ -3,7 +3,7 @@
  
  [LinkedIn](https://www.linkedin.com/in/s%C3%A9bastien-morel--/)
  
- ## Current perso learning
+ ## Personal Current learning
  
  Learning modeling 3d on **Blender**
  
@@ -13,7 +13,7 @@
  [Unity Tower Defense](https://github.com/Morseb-aeiciae/TD_Unity) : Overview of Unity.
  
  
- ## Web perso learning
+ ## Personal web learning
  
  |repo|details
  |-|-
@@ -23,15 +23,15 @@
  
  ## 42 School 
  
- | repo | details
+ | repo | details | main lang
  |-|-
- | [Libft](https://github.com/Morseb-aeiciae/libft)                     | Recoding a few functions of the C standard library.
- | [ft_serveur](https://github.com/Morseb-aeiciae/ft_serveur)           | Introduction to docker.
- | [Libasm](https://github.com/Morseb-aeiciae/libasm)                   | Introduction to assembly language.
- | [Minishell](https://github.com/Morseb-aeiciae/minishell)             | Create a simple shell.
- | [Push Swap](https://github.com/Morseb-aeiciae/push_swap)             | Optimization stack sorting.
- | [Philosophers](https://github.com/Morseb-aeiciae/philo)              | Introduction to mutex and semaphore with threads and processes.
- | [Minirt](https://github.com/Morseb-aeiciae/minirt)                   | Introduction to raytracing.
- | [Modules CPP](https://github.com/Morseb-aeiciae/CPP)                 | Cpp zero to basics.
- | [IRC](https://github.com/Morseb-aeiciae/IRC)                         | C++ IRC server working with an official client.
- | [Transcendence](https://github.com/Morseb-aeiciae/ft_transcendence)  | Build a website to a pong contest.
+ | [Libft](https://github.com/Morseb-aeiciae/libft)                     | Recoding a few functions of the C standard library.             | C
+ | [ft_serveur](https://github.com/Morseb-aeiciae/ft_serveur)           | Introduction to docker.                                         | 
+ | [Libasm](https://github.com/Morseb-aeiciae/libasm)                   | Introduction to assembly language.                              | ASM
+ | [Minishell](https://github.com/Morseb-aeiciae/minishell)             | Create a simple shell.                                          | C
+ | [Push Swap](https://github.com/Morseb-aeiciae/push_swap)             | Optimization stack sorting.                                     | C
+ | [Philosophers](https://github.com/Morseb-aeiciae/philo)              | Introduction to mutex and semaphore with threads and processes. | C
+ | [Minirt](https://github.com/Morseb-aeiciae/minirt)                   | Introduction to raytracing.                                     | C
+ | [Modules CPP](https://github.com/Morseb-aeiciae/CPP)                 | Cpp zero to basics.                                             | C++
+ | [IRC](https://github.com/Morseb-aeiciae/IRC)                         | C++ IRC server working with an official client.                 | C++
+ | [Transcendence](https://github.com/Morseb-aeiciae/ft_transcendence)  | Build a website to a pong contest.                              | TS
