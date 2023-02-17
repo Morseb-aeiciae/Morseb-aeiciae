@@ -1,5 +1,5 @@
  ## Pro
- Back End Developer Junior
+ Back End Developer
  
  [LinkedIn](https://www.linkedin.com/in/s%C3%A9bastien-morel--/)
  
