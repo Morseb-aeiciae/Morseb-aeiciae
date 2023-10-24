@@ -13,7 +13,7 @@
  [Unity Tower Defense](https://github.com/Morseb-aeiciae/TD_Unity) : Overview of Unity.
  
  
- ## Personal web learning
+ ## Personal basic web learning
  
  |repo|details
  |-|-
@@ -22,6 +22,8 @@
  
  
  ## 42 School 
+
+Various projects, with a coding standard to be respected in **C/C++98**. Subsequently learned modern **C++20** and design pattern. 
  
  | repo | details | main lang
  |-|-|-
