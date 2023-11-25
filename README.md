@@ -1,5 +1,5 @@
  ## Pro
- Back End Developer
+ PHP Developer
  
  [LinkedIn](https://www.linkedin.com/in/s%C3%A9bastien-morel--/)
  
@@ -8,17 +8,13 @@
  Learning modeling 3d on **Blender**
  
  Start using **Unreal Engine 5**
-
- Challenging myself on https://www.codingame.com
  
  ## Curiosity
- [Unity Tower Defense](https://github.com/Morseb-aeiciae/TD_Unity) : Overview of Unity.
- 
- 
- ## Personal basic web learning
  
  |repo|details
  |-|-
+ | [Dungeon Modular Kitbash](https://github.com/Morseb-aeiciae/Blender_DungeonModularKitbash) | First Blender project 
+ | [Unity Tower Defense](https://github.com/Morseb-aeiciae/TD_Unity)  | Overview of Unity.
  | [JavaScript](https://github.com/Morseb-aeiciae/Web_JavaScript)     | JS zero to basics.
  | [Html + Css](https://github.com/Morseb-aeiciae/Web_HTML_CSS)       | HTML + CSS zero to basics.
  
