@@ -9,7 +9,7 @@
  
  Start using **Unreal Engine 5**
  
- ## Curiosity
+ ## Personal projects
  
  |repo|details
  |-|-
@@ -25,7 +25,7 @@ Various projects, with a coding standard to be respected in **C/C++98**. Subsequ
  
  | repo | details | main lang
  |-|-|-
- | [Transcendence](https://github.com/Morseb-aeiciae/42School_ft_transcendence)  | Build a website to a pong contest.                              | TS
+ | [Transcendence](https://github.com/Morseb-aeiciae/42School_ft_transcendence)  | Build a website for a pong competition                          | TS
  | [IRC](https://github.com/Morseb-aeiciae/42School_IRC)                         | C++ IRC server working with an official client.                 | C++
  | [Modules CPP](https://github.com/Morseb-aeiciae/42School_CPP)                 | Cpp zero to basics.                                             | C++
  | [Minirt](https://github.com/Morseb-aeiciae/42School_minirt)                   | Introduction to raytracing.                                     | C
