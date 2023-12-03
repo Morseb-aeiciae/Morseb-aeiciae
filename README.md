@@ -2,18 +2,19 @@
  PHP Developer
  
  [LinkedIn](https://www.linkedin.com/in/s%C3%A9bastien-morel--/)
+
+ --- 
+ ## Personal current learning/project
  
- ## Personal Current learning
- 
- Learning modeling 3d on **Blender**
- 
- Start using **Unreal Engine 5**
- 
+ **Unreal Engine 5**: Creation of a full RPG with Combat, Experience and Level Ups, Enemies, Spells, Menus, Game Saving, and much more.
+
+ ---
  ## Personal projects
  
  |repo|details
  |-|-
- | [Dungeon Modular Kitbash](https://github.com/Morseb-aeiciae/Blender_DungeonModularKitbash) | First Blender project 
+ | [Dungeon Modular Kitbash (UE5)](https://github.com/Morseb-aeiciae/UE5_DungeonModularKitbash) | Use of assets created for digging in UE5.3 
+ | [Dungeon Modular Kitbash (Blender)](https://github.com/Morseb-aeiciae/Blender_DungeonModularKitbash) | First Blender project 
  | [Unity Tower Defense](https://github.com/Morseb-aeiciae/TD_Unity)  | Overview of Unity.
  | [JavaScript](https://github.com/Morseb-aeiciae/Web_JavaScript)     | JS zero to basics.
  | [Html + Css](https://github.com/Morseb-aeiciae/Web_HTML_CSS)       | HTML + CSS zero to basics.
