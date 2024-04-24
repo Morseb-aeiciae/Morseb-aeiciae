@@ -6,7 +6,7 @@
  --- 
  ## Personal current learning/project
  
- **Unreal Engine 5**: Creation of a full RPG with Combat, Experience and Level Ups, Enemies, Spells, Menus, Game Saving, and much more.
+ **Unreal Engine 5**: Creation of a full RPG with Combat, Experience and Level Ups, Enemies, Spells, Menus, Game Saving, and much more. (C++ & blueprint)
 
  ---
  ## Personal projects
